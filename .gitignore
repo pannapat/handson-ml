@@ -14,4 +14,4 @@ datasets/flowers
 datasets/lifesat/lifesat.csv
 datasets/spam
 datasets/words
-
+env
